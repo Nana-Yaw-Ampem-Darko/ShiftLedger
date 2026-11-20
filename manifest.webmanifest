@@ -1,6 +1,18 @@
 {
-  "id":"./","name":"SHIFTLEDGER Punch Clock Pro","short_name":"SHIFTLEDGER",
-  "description":"Offline-first attendance and overtime tracker","start_url":"./","scope":"./",
-  "display":"standalone","background_color":"#10130f","theme_color":"#11150f",
-  "orientation":"portrait","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+  "name": "SHIFTLEDGER \u2014 Nana Yaw Ampem Darko",
+  "short_name": "SHIFTLEDGER",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c100c",
+  "theme_color": "#10150f",
+  "description": "Personal attendance and overtime tracker",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
